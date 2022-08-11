@@ -5,4 +5,4 @@
 </div>
 
 #### Demo Screenshot
-<img src="https://raw.githubusercontent.com/jaycode8/Personal-Web-Portfolio/main/src/Components/About/Projects/img/funiture.png" />
+<img src="https://raw.githubusercontent.com/jaycode8/Fish-Species-Preddictions/main/Application/resources/app.png" />
