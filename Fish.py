@@ -27,8 +27,8 @@ selected = option_menu(
         orientation = 'horizontal'
     )
 
-dataset = pd.read_csv("../Model/Fish.csv")
-randomForest = pickle.load(open("../Model/FishRandomForestModel.sav",'rb'))
+dataset = pd.read_csv("./Model/Fish.csv")
+randomForest = pickle.load(open("./Model/FishRandomForestModel.sav",'rb'))
 
 def homePage():
     st.markdown('<h2 style="text-align:center; color:#f39c12; text-decoration:underline; font-family:garamond;">Fish Species Prediction Web App using Random Forest Classifier</h2>', unsafe_allow_html=True)
